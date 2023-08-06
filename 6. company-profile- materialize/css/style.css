@@ -1,3 +1,10 @@
+#logo {
+    width: 100px;
+    height: 40px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
 .slider h3,
 .slider h5,
 .clients h3 {
